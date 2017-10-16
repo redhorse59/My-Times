@@ -7,13 +7,18 @@ header {
 
 }
 
+nav span {
+  display: inline-block;
+  align-items: center;
+}
+
 nav a {
   color: Black;
 }
 
 .logo {
 display: flex;
-color:  Aquamarine medium;
+color:  MediumAquamarine;
 align-items: center;
 
 }
