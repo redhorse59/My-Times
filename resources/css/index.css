@@ -1,0 +1,19 @@
+header {
+  display: flex;
+  font-family: Veranda;
+  font-size: 14px;
+  font-weight: bold;
+  align-items: center;
+
+}
+
+nav a {
+  color: Black;
+}
+
+.logo {
+display: flex;
+color:  Aquamarine medium;
+align-items: center;
+
+}
