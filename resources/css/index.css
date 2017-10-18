@@ -1,24 +1,19 @@
-header {
+header{
   display: flex;
   font-family: Veranda;
   font-size: 14px;
-  font-weight: bold;
-  align-items: center;
-
+  font-wieght: bold;
 }
 
-nav span {
+  .logo {
+    color: MediumAquamarine;
+}
+
+span {
   display: inline-block;
-  align-items: center;
 }
 
-nav a {
-  color: Black;
-}
-
-.logo {
-display: flex;
-color:  MediumAquamarine;
-align-items: center;
-
+a{
+    color: black;
+    justify-content: center;
 }
