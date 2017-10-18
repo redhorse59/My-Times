@@ -3,17 +3,18 @@ header{
   font-family: Veranda;
   font-size: 14px;
   font-wieght: bold;
+  border-bottom: black solid 1px;
+
 }
 
-  .logo {
+.logo {
     color: MediumAquamarine;
 }
 
-span {
+ nav {
   display: inline-block;
 }
 
-a{
-    color: black;
-    justify-content: center;
+span a{
+  color: black;
 }
